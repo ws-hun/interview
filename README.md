@@ -22,7 +22,7 @@ Interview 是一个集成了简历分析、模拟面试（文字 + 语音）、�
 
 ## 系统架构
 
-![系统架构图](https://oss.javaguide.cn/xingqiu/pratical-project/interview-guide/interview-guide-architecture-diagram.png)
+![系统架构图](docs/images/interview-guide-architecture-diagram.png)
 
 ## 技术栈
 
@@ -162,54 +162,54 @@ Interview 是一个集成了简历分析、模拟面试（文字 + 语音）、�
 
 面试中心：
 
-![面试中心](https://oss.javaguide.cn/xingqiu/pratical-project/interview-guide/page-interview-hub.png)
+![面试中心](docs/images/page-interview-hub.jpg)
 
 Skill 出题 + JD 解析：
 
-![Skill 出题 + JD 解析](https://oss.javaguide.cn/xingqiu/pratical-project/interview-guide/page-skill-jd-parse.png)
+![Skill 出题 + JD 解析](docs/images/page-skill-jd-parse.jpg)
 
 简历库：
 
-![简历库](https://oss.javaguide.cn/xingqiu/pratical-project/interview-guide/page-resume-history.png)
+![简历库](docs/images/page-resume-history.png)
 
 简历上传分析：
 
-![简历上传分析](https://oss.javaguide.cn/xingqiu/pratical-project/interview-guide/page-resume-upload-analysis.png)
+![简历上传分析](docs/images/page-resume-upload-analysis.png)
 
 简历分析详情：
 
-![简历分析详情](https://oss.javaguide.cn/xingqiu/pratical-project/interview-guide/page-resume-analysis-detail.png)
+![简历分析详情](docs/images/page-resume-analysis-detail.png)
 
 面试记录：
 
-![面试记录](https://oss.javaguide.cn/xingqiu/pratical-project/interview-guide/page-interview-history.png)
+![面试记录](docs/images/page-interview-history.png)
 
 面试详情：
 
-![面试详情](https://oss.javaguide.cn/xingqiu/pratical-project/interview-guide/page-interview-detail.png)
+![面试详情](docs/images/page-interview-detail.png)
 
 模拟面试：
 
-![模拟面试](https://oss.javaguide.cn/xingqiu/pratical-project/interview-guide/page-mock-interview.png)
+![模拟面试](docs/images/page-mock-interview.png)
 
 面试安排
 
-![面试安排](https://oss.javaguide.cn/xingqiu/pratical-project/interview-guide/page-interview-schedule-list.png)
+![面试安排](docs/images/page-interview-schedule-list.jpg)
 
 多模型切换 + 语音服务设置：
 
-![管理聊天模型、向量模型和模块配置](https://oss.javaguide.cn/xingqiu/pratical-project/interview-guide/llm-settings.png)
+![管理聊天模型、向量模型和模块配置](docs/images/llm-settings.png)
 
 
 ### 知识库
 
 知识库管理：
 
-![知识库管理](https://oss.javaguide.cn/xingqiu/pratical-project/interview-guide/page-knowledge-base-management.png)
+![知识库管理](docs/images/page-knowledge-base-management.png)
 
 问答助手：
 
-![问答助手](https://oss.javaguide.cn/xingqiu/pratical-project/interview-guide/page-qa-assistant.png)
+![问答助手](docs/images/page-qa-assistant.png)
 
 ## 项目结构
 
